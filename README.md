@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/06682214-d7f6-456d-8606-f1e37
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# VidyaSetu
+
+🚀 Live Demo: https://vidya-setu-kohl.vercel.app/
+
+An AI-powered multilingual educational platform designed to make learning accessible, engaging, and personalized for every student.
